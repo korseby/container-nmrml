@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Name
-NAME="nmrml"
+NAME="korseby/nmrml"
 
 # CPU options
 #CPU_SHARES="--cpu-shares=8"

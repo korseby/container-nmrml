@@ -4,7 +4,7 @@
 #GRUB_CMDLINE_LINUX="cgroup_enable=memory swapaccount=1"
 
 # Name
-NAME="nmrml"
+NAME="korseby/nmrml"
 
 # CPU options
 #CPU_SHARES="--cpu-shares=8"
